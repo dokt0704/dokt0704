@@ -6,7 +6,7 @@
 |FPS|오버워치|
 |서브컬쳐|블루아카이브|
 
-[깃허브](https://github.com/dokt0704/dokt0704)
+[깃허브](https://github.com/dokt0704)
 ---
 - [x] 게임하기
 - [ ] 운동하기
