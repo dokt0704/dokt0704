@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 👋
+
+|게임장르|이름|
+|----------|----------|
+|RPG|메이플|
+|FPS|오버워치|
+|서브컬쳐|블루아카이브|
+
+
 
 <!--
 **dokt0704/dokt0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
