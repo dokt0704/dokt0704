@@ -8,7 +8,7 @@
 
 [깃허브](https://github.com/dokt0704/dokt0704)
 
-'print("hello worid")'
+'LearmGitFrom(cat, dog)'
 
 <!--
 **dokt0704/dokt0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
